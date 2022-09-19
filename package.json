@@ -1,0 +1,19 @@
+{
+  "name": "simple-3d-tour-viewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gibaek-lee/simple-3d-tour-viewer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gibaek-lee/simple-3d-tour-viewer/issues"
+  },
+  "homepage": "https://github.com/gibaek-lee/simple-3d-tour-viewer#readme"
+}
